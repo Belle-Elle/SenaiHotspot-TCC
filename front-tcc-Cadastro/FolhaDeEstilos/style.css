@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.cabecario{
+    clip-path: polygon(0 0, 100% 0, 100% 30%, 87% 36%, 65% 35%, 41% 29%, 19% 27%, 0% 30%);
+    background-color: #9a1915;
+    height: 400px;
+}
